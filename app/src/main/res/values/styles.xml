@@ -18,6 +18,10 @@
         <item name="android:textColor">@color/yellow_400</item>
         <item name="android:textStyle">bold</item>
     </style>
+    <style name="TextAppearance.Fresh.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/yellow_400</item>
+        <item name="android:textStyle">bold</item>
+    </style>
 
     <style name="Widget.Fresh.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.FilledBox.Dense">
         <item name="hintTextAppearance">@style/Widget.Fresh.TextInputLayout</item>
